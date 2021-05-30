@@ -12,15 +12,15 @@ Software: JavaScript, HTML, D3, Bootstrap
 
 ## How to Use Webpage to Fetch UFO Data
 
-Use the input fields provided under “Filter Search” on the left-hand side of the page to filter the table and retrieve refined UFO data. Replicate the format provided in the input field when inputting the search criteria. The table can be filtered with the following criteria: Date, City, State, County, and Shape. For example, all the UFO sightings in California can be filtered by typing “ca” within the “Enter State” input field and press enter. This will immediately cause the table to filter the data and display only UFO sightings in California.
+Use the input fields provided under “Filter Search” on the left-hand side of the page to filter the table and retrieve refined UFO data. Replicate the format provided in the input field when inputting the search criteria. The table can be filtered with the following criteria: Date, City, State, County, and Shape. For example, all the UFO sightings in California can be filtered by typing “ca” within the “Enter State” input field and pressing enter. This will immediately cause the table to filter the data and display only UFO sightings in California.
 
 ![UFO_Challenge_Filter_CA](/Resources/UFO_Challenge_Filter_CA.png)
 
-Similarly, the table can be filtered by date. For example, all UFO sightings on January 12,2010 can be filtered by typing “1/12/2010” into the “Enter Date” input field and press enter. This will filter the table to show only UFO sightings on 1/12/2010.
+Similarly, the table can be filtered by date. For example, all UFO sightings on January 12,2010 can be filtered by typing “1/12/2010” into the “Enter Date” input field and pressing enter. This will filter the table to show only UFO sightings on 1/12/2010.
 
 ![UFO_Challenge_Filter_Date](/Resources/UFO_Challenge_Filter_Date.png)
 
-These two filters can by combined to fetch UFO sightings in California on 1/12/2010. Repeat the same actions as before: type “1/12/2010” into the “Enter Date” field and “ca” within the “Enter State” input field and press enter. This will filter the table to show only UFO sightings on 1/12/2010 in California. 
+These two filters can by combined to fetch UFO sightings in California on 1/12/2010. Repeat the same actions as before: type “1/12/2010” into the “Enter Date” field and “ca” within the “Enter State” input field and pressing enter. This will filter the table to show only UFO sightings on 1/12/2010 in California. 
 
 ![UFO_Challenge_Filter_Date_State](/Resources/UFO_Challenge_Filter_Date_State.png)
 
